@@ -1,0 +1,136 @@
+header{
+
+  /*background-color: #355278;*/
+  background-color: #204b79;
+  width: 100%;
+  height: 200px;
+  text-align: center;
+  display: flex;
+  /*border: solid black 1px;*/
+}
+img{
+
+  margin-left: 0%;
+  width: 100%;
+  height: auto;
+}
+nav{
+
+  /*background-color: #006666;*/
+  background-color: #204b79;
+  width: 15%;
+  float: left;
+  height: 620px;
+  display: flex;
+  /*border: solid black 1px;*/
+}
+
+.navbar{
+  width:100%;
+  /*border: solid white 1px;*/
+  height: auto;
+}
+
+#navbar{
+  width: 100%;
+  /*border: solid black 1px;*/
+  text-align: center;
+}
+
+.linkmenu{
+  /*border: solid blue 1px;*/
+  width: 100%;
+  /*height: 525px;*/
+}
+.linkitem{
+  /*background-color: white;*/
+  width: 70%;
+  margin-top: 20px;
+}
+a:link{
+  color: black;
+  text-decoration: none;
+}
+a:visited{
+  color: black;
+  text-decoration: none;
+}
+main{
+
+  background-color: #204b79;
+  width: 70%;
+  float: left;
+  height: 620px;
+  display: flex;
+  justify-content: flex-start;
+  /*border: solid black 1px;*/
+}
+
+.main{
+  width:100%;
+  /*border: solid black 1px;*/
+  height: auto;
+}
+.description{
+  width: 100%;
+  /*border: solid white 1px;*/
+  text-align: center;
+}
+.content{
+  width: 100%;
+  /*border: solid orange 1px;*/
+  padding-top: 65px;
+  padding-bottom: 65px;
+}
+form{
+  width: 50%;
+  /*text-align: center;*/
+  /*border: solid white 1px;*/
+  margin-left: 25%;
+}
+.box{
+  width: 30%;
+  margin-top: 20px;
+}
+video{
+  width: 40%;
+  height: 200px;
+  margin-left: 30%;
+  margin-right: 30%;
+  /*border: solid white 1px;*/
+}
+aside{
+
+  background-color: #204b79;
+  /*border: solid black 1px;*/
+  width: 15%;
+  float: right;
+  height: 620px;
+  display: flex;
+}
+.asidebar{
+  /*border: solid red 1px;*/
+  /*height: 600px;*/
+}
+#asidebox{
+  /*border: solid white 1px;*/
+  text-align: center;
+  width: 100%;
+}
+.menu{
+  /*border: solid yellow 1px;*/
+  width: 100%;
+  /*padding: 20px;*/
+}
+
+.menuitem{
+  /*background-color: white;*/
+  width: 70%;
+  margin-top: 20px;
+}
+footer{
+
+  background-color: #204b79;
+  width: 100%;
+  display: flex;
+}
